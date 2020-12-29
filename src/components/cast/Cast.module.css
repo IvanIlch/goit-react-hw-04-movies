@@ -1,0 +1,14 @@
+.list {
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.item {
+  list-style: none;
+}
+.image {
+  width: 100px;
+  height: 130px;
+}
+.name {
+}
